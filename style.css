@@ -74,7 +74,9 @@ https://developer.mozilla.org/ru/docs/Web/CSS/@media
   line-height: 100%;
 }
 .nametitle {
-  font-size: 6.778vw;
+  margin-top: -50px;
+  margin-left: 10px;
+  font-size: 80px;
   line-height: 100%;
   color: gray;
 }
