@@ -2,7 +2,6 @@
   Загружаем шрифт Roboto
 */
 
-
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400&display=swap");
 
 /*
@@ -74,6 +73,11 @@ https://developer.mozilla.org/ru/docs/Web/CSS/@media
   font-size: 12.778vw;
   line-height: 100%;
 }
+.nametitle {
+  font-size: 4.778vw;
+  line-height: 100%;
+  color: gray;
+}
 
 .block {
   margin-top: 13.333vw;
@@ -85,7 +89,6 @@ https://developer.mozilla.org/ru/docs/Web/CSS/@media
   font-size: 4.444vw;
   margin-bottom: 3.333vw;
 }
-
 .entry {
   line-height: 7.814vw;
   font-size: 6.667vw;
